@@ -1002,7 +1002,7 @@ class WeeklyTimetableView extends StatelessWidget {
   const WeeklyTimetableView({super.key, required this.classes});
 
   static const int _startHour = 7;
-  static const int _endHour = 20;
+  static const int _endHour = 23;
   static const double _hourHeight = 60.0;
   static const double _timeWidth = 50.0;
 
